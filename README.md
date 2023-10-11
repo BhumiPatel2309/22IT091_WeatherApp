@@ -1,2 +1,1 @@
-# 22IT091_WeatherApp
-This web application checks the current weather conditions for a specific location. It returns temperature, wind speed, humidity and sky conditions  of the location a user enters. Simple type the city name and explore everything about its environment. 
+This web application checks the current weather conditions for a specific location. It returns temperature, wind speed, humidity and sky conditions  of the location a user enters. Simple type the city name and explore everything about its environment. Type the code in VS Code or any other platform to get the output. 
